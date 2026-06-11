@@ -1,0 +1,6 @@
+{
+  "name": "Pasticceria Dolce Idea — Cremona",
+  "description": "Sito web ufficiale di Pasticceria Dolce Idea a Cremona. Torte personalizzate, pasticceria mignon artigianale, lievitati e dolci della tradizione creati con passione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
